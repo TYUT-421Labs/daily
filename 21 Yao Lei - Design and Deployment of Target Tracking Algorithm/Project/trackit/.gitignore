@@ -1,0 +1,11 @@
+*.pth
+*.model
+data/*
+dataset/*
+logs/*
+pretrain/*
+snap/*
+*.json
+result/*
+snapshot/*
+

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with BasicAirData GPS Logger for Android - ver. 3.2.1 -->
+<!-- Track 2 = 8 TrackPoints + 0 Placemarks -->
+<kml xmlns="http://www.opengis.net/kml/2.2">
+ <Document>
+  <name>GPS Logger 20230508-155417</name>
+  <description><![CDATA[8 Trackpoints + 0 Placemarks]]></description>
+  <Style id="TrackStyle">
+   <LineStyle>
+    <color>ff0000ff</color>
+    <width>3</width>
+   </LineStyle>
+   <PolyStyle>
+    <color>7f0000ff</color>
+   </PolyStyle>
+   <BalloonStyle>
+    <text><![CDATA[<p style="color:red;font-weight:bold">$[name]</p><p style="font-size:11px">$[description]</p><p style="font-size:7px">轨迹统计数据基于: 总时长 | 移动时间</p>]]></text>
+   </BalloonStyle>
+  </Style>
+
+  <Placemark id="20230508-155417">
+   <name>轨迹 20230508-155417</name>
+   <description><![CDATA[距离 = 4 米<br>持续时间 = 00:07 | 00:05<br>高度差 = 22 米<br>最高速度 = 4 米/秒<br>平均速度 = 0.6 | 0.8 米/秒<br>方向 =  <br><br><i>8 路点</i>]]></description>
+   <styleUrl>#TrackStyle</styleUrl>
+   <LineString>
+    <extrude>0</extrude>
+    <tessellate>0</tessellate>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>
+     112.71797491,37.74683652,798.939
+     112.71799503,37.74683848,798.939
+     112.71798137,37.74684372,797.939
+     112.71798866,37.74684527,800.939
+     112.71799453,37.74685240,802.939
+     112.71799738,37.74685454,805.939
+     112.71798698,37.74685039,810.939
+     112.71798883,37.74687084,820.939
+    </coordinates>
+   </LineString>
+  </Placemark>
+
+ </Document>
+</kml>
+ 

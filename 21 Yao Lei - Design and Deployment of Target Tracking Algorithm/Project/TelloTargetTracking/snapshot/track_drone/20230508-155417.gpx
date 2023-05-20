@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with BasicAirData GPS Logger for Android - ver. 3.2.1 -->
+<!-- Track 2 = 8 TrackPoints + 0 Placemarks -->
+
+<!-- Track Statistics (based on Total Time | Time in Movement): -->
+<!--  Distance = 4 米 -->
+<!--  Duration = 00:07 | 00:05 -->
+<!--  Altitude Gap = 22 米 -->
+<!--  Max Speed = 4 米/秒 -->
+<!--  Avg Speed = 0.6 | 0.8 米/秒 -->
+<!--  Activity = steady -->
+<!--  Altitudes = Corrected using EGM96 grid (bilinear interpolation) -->
+
+<gpx version="1.0"
+     creator="BasicAirData GPS Logger 3.2.1"
+     xmlns="http://www.topografix.com/GPX/1/0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<name>GPS Logger 20230508-155417</name>
+<time>2023-05-08T11:27:05Z</time>
+<keywords>steady</keywords>
+<bounds minlat="37.74683652" minlon="112.71797491" maxlat="37.74687084" maxlon="112.71799738" />
+
+<trk>
+ <name>轨迹 20230508-155417</name>
+ <trkseg>
+  <trkpt lat="37.74683652" lon="112.71797491"><ele>798.939</ele><time>2023-05-08T07:54:17Z</time><speed>3.960</speed><sat>5</sat></trkpt>
+  <trkpt lat="37.74683848" lon="112.71799503"><ele>798.939</ele><time>2023-05-08T07:54:18Z</time><speed>3.380</speed><sat>5</sat></trkpt>
+  <trkpt lat="37.74684372" lon="112.71798137"><ele>797.939</ele><time>2023-05-08T07:54:19Z</time><speed>2.370</speed><sat>5</sat></trkpt>
+  <trkpt lat="37.74684527" lon="112.71798866"><ele>800.939</ele><time>2023-05-08T07:54:20Z</time><speed>1.500</speed><sat>5</sat></trkpt>
+  <trkpt lat="37.74685240" lon="112.71799453"><ele>802.939</ele><time>2023-05-08T07:54:21Z</time><speed>0.490</speed><sat>5</sat></trkpt>
+  <trkpt lat="37.74685454" lon="112.71799738"><ele>805.939</ele><time>2023-05-08T07:54:22Z</time><speed>0.600</speed><sat>5</sat></trkpt>
+  <trkpt lat="37.74685039" lon="112.71798698"><ele>810.939</ele><time>2023-05-08T07:54:23Z</time><speed>0.890</speed><sat>4</sat></trkpt>
+  <trkpt lat="37.74687084" lon="112.71798883"><ele>820.939</ele><time>2023-05-08T07:54:24Z</time><speed>0.350</speed><sat>4</sat></trkpt>
+ </trkseg>
+</trk>
+
+</gpx>
+ 

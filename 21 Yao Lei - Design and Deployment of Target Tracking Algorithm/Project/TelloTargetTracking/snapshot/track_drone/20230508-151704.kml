@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with BasicAirData GPS Logger for Android - ver. 3.2.1 -->
+<!-- Track 1 = 4 TrackPoints + 0 Placemarks -->
+<kml xmlns="http://www.opengis.net/kml/2.2">
+ <Document>
+  <name>GPS Logger 20230508-151704</name>
+  <description><![CDATA[4 Trackpoints + 0 Placemarks]]></description>
+  <Style id="TrackStyle">
+   <LineStyle>
+    <color>ff0000ff</color>
+    <width>3</width>
+   </LineStyle>
+   <PolyStyle>
+    <color>7f0000ff</color>
+   </PolyStyle>
+   <BalloonStyle>
+    <text><![CDATA[<p style="color:red;font-weight:bold">$[name]</p><p style="font-size:11px">$[description]</p><p style="font-size:7px">轨迹统计数据基于: 总时长 | 移动时间</p>]]></text>
+   </BalloonStyle>
+  </Style>
+
+  <Placemark id="20230508-151704">
+   <name>轨迹 20230508-151704</name>
+   <description><![CDATA[距离 = 8 米<br>持续时间 = 00:03 | 00:01<br>高度差 = -15 米<br>最高速度 = 1 米/秒<br>平均速度 = 2.7 | 8.0 米/秒<br>方向 =  <br><br><i>4 路点</i>]]></description>
+   <styleUrl>#TrackStyle</styleUrl>
+   <LineString>
+    <extrude>0</extrude>
+    <tessellate>0</tessellate>
+    <altitudeMode>clampToGround</altitudeMode>
+    <coordinates>
+     112.71774114,37.74686941,856.940
+     112.71772974,37.74685781,857.940
+     112.71780870,37.74686103,850.940
+     112.71783192,37.74686283,841.939
+    </coordinates>
+   </LineString>
+  </Placemark>
+
+ </Document>
+</kml>
+ 

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with BasicAirData GPS Logger for Android - ver. 3.2.1 -->
+<!-- Track 1 = 4 TrackPoints + 0 Placemarks -->
+
+<!-- Track Statistics (based on Total Time | Time in Movement): -->
+<!--  Distance = 8 米 -->
+<!--  Duration = 00:03 | 00:01 -->
+<!--  Altitude Gap = -15 米 -->
+<!--  Max Speed = 1 米/秒 -->
+<!--  Avg Speed = 2.7 | 8.0 米/秒 -->
+<!--  Activity = steady -->
+<!--  Altitudes = Corrected using EGM96 grid (bilinear interpolation) -->
+
+<gpx version="1.0"
+     creator="BasicAirData GPS Logger 3.2.1"
+     xmlns="http://www.topografix.com/GPX/1/0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<name>GPS Logger 20230508-151704</name>
+<time>2023-05-08T11:27:05Z</time>
+<keywords>steady</keywords>
+<bounds minlat="37.74685781" minlon="112.71772974" maxlat="37.74686941" maxlon="112.71783192" />
+
+<trk>
+ <name>轨迹 20230508-151704</name>
+ <trkseg>
+  <trkpt lat="37.74686941" lon="112.71774114"><ele>856.940</ele><time>2023-05-08T07:17:04Z</time><speed>0.390</speed><sat>6</sat></trkpt>
+  <trkpt lat="37.74685781" lon="112.71772974"><ele>857.940</ele><time>2023-05-08T07:17:05Z</time><speed>0.190</speed><sat>6</sat></trkpt>
+  <trkpt lat="37.74686103" lon="112.71780870"><ele>850.940</ele><time>2023-05-08T07:17:06Z</time><speed>0.380</speed><sat>7</sat></trkpt>
+  <trkpt lat="37.74686283" lon="112.71783192"><ele>841.939</ele><time>2023-05-08T07:17:07Z</time><speed>0.500</speed><sat>7</sat></trkpt>
+ </trkseg>
+</trk>
+
+</gpx>
+ 

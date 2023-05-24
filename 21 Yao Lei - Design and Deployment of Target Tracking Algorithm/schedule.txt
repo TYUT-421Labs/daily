@@ -10,6 +10,20 @@ TODO
 
 
 
+2023.5.24
+backbone: MobileONE, 仅回归 cls 分支:  (主要测试 MobileOne 这个架构是否有收敛能力)
+	1. shift = 0, cls loss在第5个epoch为: 
+	2. shift = 4, cls loss在第5个epoch为:
+	3. shift = 16, cls loss在第5个epoch为:
+	4. shift = 32, cls loss在第5个epoch为:
+	5. shift = 64, cls loss在第5个epoch为:
+	如果不能收敛, 找找一找为什么不能收敛.
+	备注: 此时 1 号机, shift = 0
+	
+	
+	
+	
+	
 
 2023.5.24
 1. 似乎找到了效果不好的根源, 可能是因为 shift 太小了,导致网络加入padding后找到了基本的规律, 就像是掉到了siamrpn的坑里...

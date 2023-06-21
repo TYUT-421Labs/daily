@@ -1,0 +1,2040 @@
+1_MY, 1_carDark: 1/20
+FPS: 68.62
+1_MY, 1_carDark: 2/20
+FPS: 69.91
+1_MY, 1_carDark: 3/20
+FPS: 69.48
+1_MY, 1_carDark: 4/20
+FPS: 69.66
+1_MY, 1_carDark: 5/20
+FPS: 69.29
+1_MY, 1_carDark: 6/20
+FPS: 66.72
+1_MY, 1_carDark: 7/20
+FPS: 69.76
+1_MY, 1_carDark: 8/20
+FPS: 73.05
+1_MY, 1_carDark: 9/20
+FPS: 72.90
+1_MY, 1_carDark: 10/20
+FPS: 71.32
+1_MY, 1_carDark: 11/20
+FPS: 71.26
+1_MY, 1_carDark: 12/20
+FPS: 64.95
+1_MY, 1_carDark: 13/20
+FPS: 67.01
+1_MY, 1_carDark: 14/20
+FPS: 70.67
+1_MY, 1_carDark: 15/20
+FPS: 72.56
+1_MY, 1_carDark: 16/20
+FPS: 71.20
+1_MY, 1_carDark: 17/20
+FPS: 69.92
+1_MY, 1_carDark: 18/20
+FPS: 69.70
+1_MY, 1_carDark: 19/20
+FPS: 68.10
+1_MY, 1_carDark: 20/20
+FPS: 65.58
+1_MY, 2_car4: 1/20
+FPS: 16.13
+1_MY, 2_car4: 2/20
+FPS: 10.47
+1_MY, 2_car4: 3/20
+FPS: 12.04
+1_MY, 2_car4: 4/20
+FPS: 15.05
+1_MY, 2_car4: 5/20
+FPS: 13.80
+1_MY, 2_car4: 6/20
+FPS: 18.44
+1_MY, 2_car4: 7/20
+FPS: 20.86
+1_MY, 2_car4: 8/20
+FPS: 23.77
+1_MY, 2_car4: 9/20
+FPS: 23.59
+1_MY, 2_car4: 10/20
+FPS: 32.55
+1_MY, 2_car4: 11/20
+FPS: 30.77
+1_MY, 2_car4: 12/20
+FPS: 22.74
+1_MY, 2_car4: 13/20
+FPS: 30.88
+1_MY, 2_car4: 14/20
+FPS: 19.35
+1_MY, 2_car4: 15/20
+FPS: 23.75
+1_MY, 2_car4: 16/20
+FPS: 23.33
+1_MY, 2_car4: 17/20
+FPS: 23.19
+1_MY, 2_car4: 18/20
+FPS: 17.02
+1_MY, 2_car4: 19/20
+FPS: 14.06
+1_MY, 2_car4: 20/20
+FPS: 12.76
+1_MY, 3_david: 1/20
+FPS: 17.30
+1_MY, 3_david: 2/20
+FPS: 19.71
+1_MY, 3_david: 3/20
+FPS: 17.56
+1_MY, 3_david: 4/20
+FPS: 30.58
+1_MY, 3_david: 5/20
+FPS: 32.93
+1_MY, 3_david: 6/20
+FPS: 37.60
+1_MY, 3_david: 7/20
+FPS: 44.19
+1_MY, 3_david: 8/20
+FPS: 67.66
+1_MY, 3_david: 9/20
+FPS: 47.51
+1_MY, 3_david: 10/20
+FPS: 30.10
+1_MY, 3_david: 11/20
+FPS: 21.43
+1_MY, 3_david: 12/20
+FPS: 25.80
+1_MY, 3_david: 13/20
+FPS: 26.16
+1_MY, 3_david: 14/20
+FPS: 28.46
+1_MY, 3_david: 15/20
+FPS: 32.08
+1_MY, 3_david: 16/20
+FPS: 34.27
+1_MY, 3_david: 17/20
+FPS: 42.61
+1_MY, 3_david: 18/20
+FPS: 29.86
+1_MY, 3_david: 19/20
+FPS: 32.29
+1_MY, 3_david: 20/20
+FPS: 31.50
+1_MY, 4_david2: 1/20
+FPS: 63.04
+1_MY, 4_david2: 2/20
+FPS: 64.61
+1_MY, 4_david2: 3/20
+FPS: 62.60
+1_MY, 4_david2: 4/20
+FPS: 63.82
+1_MY, 4_david2: 5/20
+FPS: 66.58
+1_MY, 4_david2: 6/20
+FPS: 65.12
+1_MY, 4_david2: 7/20
+FPS: 68.73
+1_MY, 4_david2: 8/20
+FPS: 65.08
+1_MY, 4_david2: 9/20
+FPS: 65.50
+1_MY, 4_david2: 10/20
+FPS: 66.35
+1_MY, 4_david2: 11/20
+FPS: 69.97
+1_MY, 4_david2: 12/20
+FPS: 66.91
+1_MY, 4_david2: 13/20
+FPS: 64.42
+1_MY, 4_david2: 14/20
+FPS: 62.62
+1_MY, 4_david2: 15/20
+FPS: 61.00
+1_MY, 4_david2: 16/20
+FPS: 56.70
+1_MY, 4_david2: 17/20
+FPS: 64.47
+1_MY, 4_david2: 18/20
+FPS: 61.76
+1_MY, 4_david2: 19/20
+FPS: 61.80
+1_MY, 4_david2: 20/20
+FPS: 63.03
+1_MY, 5_sylvester: 1/20
+FPS: 26.35
+1_MY, 5_sylvester: 2/20
+FPS: 32.29
+1_MY, 5_sylvester: 3/20
+FPS: 25.88
+1_MY, 5_sylvester: 4/20
+FPS: 45.28
+1_MY, 5_sylvester: 5/20
+FPS: 29.24
+1_MY, 5_sylvester: 6/20
+FPS: 25.93
+1_MY, 5_sylvester: 7/20
+FPS: 23.70
+1_MY, 5_sylvester: 8/20
+FPS: 23.76
+1_MY, 5_sylvester: 9/20
+FPS: 25.33
+1_MY, 5_sylvester: 10/20
+FPS: 23.97
+1_MY, 5_sylvester: 11/20
+FPS: 24.22
+1_MY, 5_sylvester: 12/20
+FPS: 35.52
+1_MY, 5_sylvester: 13/20
+FPS: 34.48
+1_MY, 5_sylvester: 14/20
+FPS: 37.10
+1_MY, 5_sylvester: 15/20
+FPS: 36.18
+1_MY, 5_sylvester: 16/20
+FPS: 34.44
+1_MY, 5_sylvester: 17/20
+FPS: 34.61
+1_MY, 5_sylvester: 18/20
+FPS: 35.23
+1_MY, 5_sylvester: 19/20
+FPS: 35.87
+1_MY, 5_sylvester: 20/20
+FPS: 33.96
+1_MY, 6_trellis: 1/20
+FPS: 13.62
+1_MY, 6_trellis: 2/20
+FPS: 17.38
+1_MY, 6_trellis: 3/20
+FPS: 19.46
+1_MY, 6_trellis: 4/20
+FPS: 21.29
+1_MY, 6_trellis: 5/20
+FPS: 19.09
+1_MY, 6_trellis: 6/20
+FPS: 18.61
+1_MY, 6_trellis: 7/20
+FPS: 18.22
+1_MY, 6_trellis: 8/20
+FPS: 18.24
+1_MY, 6_trellis: 9/20
+FPS: 18.15
+1_MY, 6_trellis: 10/20
+FPS: 16.29
+1_MY, 6_trellis: 11/20
+FPS: 17.38
+1_MY, 6_trellis: 12/20
+FPS: 17.62
+1_MY, 6_trellis: 13/20
+FPS: 17.82
+1_MY, 6_trellis: 14/20
+FPS: 23.88
+1_MY, 6_trellis: 15/20
+FPS: 26.83
+1_MY, 6_trellis: 16/20
+FPS: 27.50
+1_MY, 6_trellis: 17/20
+FPS: 22.80
+1_MY, 6_trellis: 18/20
+FPS: 21.39
+1_MY, 6_trellis: 19/20
+FPS: 18.83
+1_MY, 6_trellis: 20/20
+FPS: 17.31
+1_MY, 7_fish: 1/20
+FPS: 15.22
+1_MY, 7_fish: 2/20
+FPS: 16.20
+1_MY, 7_fish: 3/20
+FPS: 16.33
+1_MY, 7_fish: 4/20
+FPS: 15.47
+1_MY, 7_fish: 5/20
+FPS: 15.71
+1_MY, 7_fish: 6/20
+FPS: 15.77
+1_MY, 7_fish: 7/20
+FPS: 15.39
+1_MY, 7_fish: 8/20
+FPS: 16.51
+1_MY, 7_fish: 9/20
+FPS: 15.12
+1_MY, 7_fish: 10/20
+FPS: 15.09
+1_MY, 7_fish: 11/20
+FPS: 16.42
+1_MY, 7_fish: 12/20
+FPS: 15.70
+1_MY, 7_fish: 13/20
+FPS: 15.63
+1_MY, 7_fish: 14/20
+FPS: 14.23
+1_MY, 7_fish: 15/20
+FPS: 14.48
+1_MY, 7_fish: 16/20
+FPS: 13.83
+1_MY, 7_fish: 17/20
+FPS: 13.90
+1_MY, 7_fish: 18/20
+FPS: 14.75
+1_MY, 7_fish: 19/20
+FPS: 14.08
+1_MY, 7_fish: 20/20
+FPS: 14.70
+1_MY, 8_mhyang: 1/20
+FPS: 19.74
+1_MY, 8_mhyang: 2/20
+FPS: 20.04
+1_MY, 8_mhyang: 3/20
+FPS: 20.49
+1_MY, 8_mhyang: 4/20
+FPS: 19.01
+1_MY, 8_mhyang: 5/20
+FPS: 19.63
+1_MY, 8_mhyang: 6/20
+FPS: 16.57
+1_MY, 8_mhyang: 7/20
+FPS: 13.23
+1_MY, 8_mhyang: 8/20
+FPS: 21.69
+1_MY, 8_mhyang: 9/20
+FPS: 17.57
+1_MY, 8_mhyang: 10/20
+FPS: 12.45
+1_MY, 8_mhyang: 11/20
+FPS: 17.60
+1_MY, 8_mhyang: 12/20
+FPS: 20.38
+1_MY, 8_mhyang: 13/20
+FPS: 12.52
+1_MY, 8_mhyang: 14/20
+FPS: 13.84
+1_MY, 8_mhyang: 15/20
+FPS: 15.47
+1_MY, 8_mhyang: 16/20
+FPS: 14.04
+1_MY, 8_mhyang: 17/20
+FPS: 20.83
+1_MY, 8_mhyang: 18/20
+FPS: 15.21
+1_MY, 8_mhyang: 19/20
+FPS: 19.27
+1_MY, 8_mhyang: 20/20
+FPS: 20.10
+1_MY, 9_soccer: 1/20
+FPS: 16.26
+1_MY, 9_soccer: 2/20
+FPS: 16.07
+1_MY, 9_soccer: 3/20
+FPS: 13.70
+1_MY, 9_soccer: 4/20
+FPS: 15.67
+1_MY, 9_soccer: 5/20
+FPS: 13.32
+1_MY, 9_soccer: 6/20
+FPS: 12.91
+1_MY, 9_soccer: 7/20
+FPS: 19.08
+1_MY, 9_soccer: 8/20
+FPS: 21.14
+1_MY, 9_soccer: 9/20
+FPS: 29.77
+1_MY, 9_soccer: 10/20
+FPS: 50.27
+1_MY, 9_soccer: 11/20
+FPS: 57.18
+1_MY, 9_soccer: 12/20
+FPS: 55.25
+1_MY, 9_soccer: 13/20
+FPS: 57.54
+1_MY, 9_soccer: 14/20
+FPS: 69.29
+1_MY, 9_soccer: 15/20
+FPS: 64.62
+1_MY, 9_soccer: 16/20
+FPS: 64.51
+1_MY, 9_soccer: 17/20
+FPS: 62.90
+1_MY, 9_soccer: 18/20
+FPS: 66.13
+1_MY, 9_soccer: 19/20
+FPS: 55.17
+1_MY, 9_soccer: 20/20
+FPS: 59.45
+1_MY, 10_matrix: 1/20
+FPS: 47.27
+1_MY, 10_matrix: 2/20
+FPS: 49.02
+1_MY, 10_matrix: 3/20
+FPS: 56.50
+1_MY, 10_matrix: 4/20
+FPS: 53.43
+1_MY, 10_matrix: 5/20
+FPS: 47.71
+1_MY, 10_matrix: 6/20
+FPS: 48.06
+1_MY, 10_matrix: 7/20
+FPS: 43.38
+1_MY, 10_matrix: 8/20
+FPS: 35.44
+1_MY, 10_matrix: 9/20
+FPS: 44.72
+1_MY, 10_matrix: 10/20
+FPS: 37.02
+1_MY, 10_matrix: 11/20
+FPS: 33.74
+1_MY, 10_matrix: 12/20
+FPS: 33.45
+1_MY, 10_matrix: 13/20
+FPS: 32.11
+1_MY, 10_matrix: 14/20
+FPS: 29.03
+1_MY, 10_matrix: 15/20
+FPS: 29.25
+1_MY, 10_matrix: 16/20
+FPS: 22.86
+1_MY, 10_matrix: 17/20
+FPS: 20.16
+1_MY, 10_matrix: 18/20
+FPS: 22.60
+1_MY, 10_matrix: 19/20
+FPS: 15.52
+1_MY, 10_matrix: 20/20
+FPS: 16.02
+1_MY, 11_ironman: 1/20
+FPS: 31.40
+1_MY, 11_ironman: 2/20
+FPS: 46.79
+1_MY, 11_ironman: 3/20
+FPS: 46.95
+1_MY, 11_ironman: 4/20
+FPS: 37.14
+1_MY, 11_ironman: 5/20
+FPS: 32.75
+1_MY, 11_ironman: 6/20
+FPS: 33.94
+1_MY, 11_ironman: 7/20
+FPS: 46.04
+1_MY, 11_ironman: 8/20
+FPS: 60.10
+1_MY, 11_ironman: 9/20
+FPS: 46.23
+1_MY, 11_ironman: 10/20
+FPS: 36.48
+1_MY, 11_ironman: 11/20
+FPS: 36.42
+1_MY, 11_ironman: 12/20
+FPS: 42.94
+1_MY, 11_ironman: 13/20
+FPS: 44.25
+1_MY, 11_ironman: 14/20
+FPS: 46.21
+1_MY, 11_ironman: 15/20
+FPS: 33.72
+1_MY, 11_ironman: 16/20
+FPS: 43.26
+1_MY, 11_ironman: 17/20
+FPS: 23.42
+1_MY, 11_ironman: 18/20
+FPS: 21.42
+1_MY, 11_ironman: 19/20
+FPS: 21.30
+1_MY, 11_ironman: 20/20
+FPS: 18.10
+1_MY, 12_deer: 1/20
+FPS: 14.16
+1_MY, 12_deer: 2/20
+FPS: 13.67
+1_MY, 12_deer: 3/20
+FPS: 14.04
+1_MY, 12_deer: 4/20
+FPS: 16.73
+1_MY, 12_deer: 5/20
+FPS: 17.08
+1_MY, 12_deer: 6/20
+FPS: 16.90
+1_MY, 12_deer: 7/20
+FPS: 15.64
+1_MY, 12_deer: 8/20
+FPS: 14.63
+1_MY, 12_deer: 9/20
+FPS: 16.07
+1_MY, 12_deer: 10/20
+FPS: 19.46
+1_MY, 12_deer: 11/20
+FPS: 18.14
+1_MY, 12_deer: 12/20
+FPS: 16.46
+1_MY, 12_deer: 13/20
+FPS: 16.34
+1_MY, 12_deer: 14/20
+FPS: 18.90
+1_MY, 12_deer: 15/20
+FPS: 18.70
+1_MY, 12_deer: 16/20
+FPS: 18.95
+1_MY, 12_deer: 17/20
+FPS: 17.14
+1_MY, 12_deer: 18/20
+FPS: 15.09
+1_MY, 12_deer: 19/20
+FPS: 15.11
+1_MY, 12_deer: 20/20
+FPS: 17.92
+1_MY, 13_skating1: 1/20
+FPS: 46.90
+1_MY, 13_skating1: 2/20
+FPS: 51.50
+1_MY, 13_skating1: 3/20
+FPS: 55.18
+1_MY, 13_skating1: 4/20
+FPS: 49.43
+1_MY, 13_skating1: 5/20
+FPS: 45.95
+1_MY, 13_skating1: 6/20
+FPS: 35.80
+1_MY, 13_skating1: 7/20
+FPS: 32.92
+1_MY, 13_skating1: 8/20
+FPS: 13.66
+1_MY, 13_skating1: 9/20
+FPS: 25.03
+1_MY, 13_skating1: 10/20
+FPS: 29.57
+1_MY, 13_skating1: 11/20
+FPS: 31.37
+1_MY, 13_skating1: 12/20
+FPS: 21.14
+1_MY, 13_skating1: 13/20
+FPS: 19.09
+1_MY, 13_skating1: 14/20
+FPS: 19.87
+1_MY, 13_skating1: 15/20
+FPS: 19.67
+1_MY, 13_skating1: 16/20
+FPS: 20.96
+1_MY, 13_skating1: 17/20
+FPS: 20.82
+1_MY, 13_skating1: 18/20
+FPS: 19.64
+1_MY, 13_skating1: 19/20
+FPS: 19.00
+1_MY, 13_skating1: 20/20
+FPS: 18.83
+1_MY, 14_shaking: 1/20
+FPS: 19.92
+1_MY, 14_shaking: 2/20
+FPS: 22.65
+1_MY, 14_shaking: 3/20
+FPS: 19.62
+1_MY, 14_shaking: 4/20
+FPS: 17.39
+1_MY, 14_shaking: 5/20
+FPS: 23.18
+1_MY, 14_shaking: 6/20
+FPS: 20.98
+1_MY, 14_shaking: 7/20
+FPS: 21.52
+1_MY, 14_shaking: 8/20
+FPS: 16.57
+1_MY, 14_shaking: 9/20
+FPS: 16.23
+1_MY, 14_shaking: 10/20
+FPS: 22.08
+1_MY, 14_shaking: 11/20
+FPS: 18.17
+1_MY, 14_shaking: 12/20
+FPS: 19.26
+1_MY, 14_shaking: 13/20
+FPS: 15.63
+1_MY, 14_shaking: 14/20
+FPS: 14.72
+1_MY, 14_shaking: 15/20
+FPS: 13.93
+1_MY, 14_shaking: 16/20
+FPS: 12.79
+1_MY, 14_shaking: 17/20
+FPS: 10.47
+1_MY, 14_shaking: 18/20
+FPS: 16.37
+1_MY, 14_shaking: 19/20
+FPS: 15.70
+1_MY, 14_shaking: 20/20
+FPS: 13.12
+1_MY, 15_singer1: 1/20
+FPS: 24.78
+1_MY, 15_singer1: 2/20
+FPS: 30.37
+1_MY, 15_singer1: 3/20
+FPS: 31.56
+1_MY, 15_singer1: 4/20
+FPS: 30.61
+1_MY, 15_singer1: 5/20
+FPS: 41.45
+1_MY, 15_singer1: 6/20
+FPS: 45.50
+1_MY, 15_singer1: 7/20
+FPS: 46.74
+1_MY, 15_singer1: 8/20
+FPS: 47.66
+1_MY, 15_singer1: 9/20
+FPS: 16.67
+1_MY, 15_singer1: 10/20
+FPS: 19.76
+1_MY, 15_singer1: 11/20
+FPS: 22.46
+1_MY, 15_singer1: 12/20
+FPS: 30.08
+1_MY, 15_singer1: 13/20
+FPS: 28.59
+1_MY, 15_singer1: 14/20
+FPS: 31.09
+1_MY, 15_singer1: 15/20
+FPS: 34.73
+1_MY, 15_singer1: 16/20
+FPS: 44.18
+1_MY, 15_singer1: 17/20
+FPS: 44.12
+1_MY, 15_singer1: 18/20
+FPS: 49.10
+1_MY, 15_singer1: 19/20
+FPS: 51.54
+1_MY, 15_singer1: 20/20
+FPS: 53.36
+1_MY, 16_singer2: 1/20
+FPS: 11.84
+1_MY, 16_singer2: 2/20
+FPS: 11.71
+1_MY, 16_singer2: 3/20
+FPS: 11.81
+1_MY, 16_singer2: 4/20
+FPS: 11.64
+1_MY, 16_singer2: 5/20
+FPS: 14.05
+1_MY, 16_singer2: 6/20
+FPS: 15.74
+1_MY, 16_singer2: 7/20
+FPS: 13.07
+1_MY, 16_singer2: 8/20
+FPS: 10.54
+1_MY, 16_singer2: 9/20
+FPS: 10.12
+1_MY, 16_singer2: 10/20
+FPS: 10.52
+1_MY, 16_singer2: 11/20
+FPS: 14.25
+1_MY, 16_singer2: 12/20
+FPS: 11.96
+1_MY, 16_singer2: 13/20
+FPS: 12.15
+1_MY, 16_singer2: 14/20
+FPS: 12.70
+1_MY, 16_singer2: 15/20
+FPS: 12.50
+1_MY, 16_singer2: 16/20
+FPS: 12.40
+1_MY, 16_singer2: 17/20
+FPS: 11.92
+1_MY, 16_singer2: 18/20
+FPS: 11.82
+1_MY, 16_singer2: 19/20
+FPS: 23.98
+1_MY, 16_singer2: 20/20
+FPS: 23.74
+1_MY, 17_coke: 1/20
+FPS: 20.70
+1_MY, 17_coke: 2/20
+FPS: 22.17
+1_MY, 17_coke: 3/20
+FPS: 21.90
+1_MY, 17_coke: 4/20
+FPS: 21.85
+1_MY, 17_coke: 5/20
+FPS: 21.71
+1_MY, 17_coke: 6/20
+FPS: 21.88
+1_MY, 17_coke: 7/20
+FPS: 22.29
+1_MY, 17_coke: 8/20
+FPS: 21.54
+1_MY, 17_coke: 9/20
+FPS: 21.59
+1_MY, 17_coke: 10/20
+FPS: 21.92
+1_MY, 17_coke: 11/20
+FPS: 22.03
+1_MY, 17_coke: 12/20
+FPS: 21.92
+1_MY, 17_coke: 13/20
+FPS: 21.93
+1_MY, 17_coke: 14/20
+FPS: 21.68
+1_MY, 17_coke: 15/20
+FPS: 22.67
+1_MY, 17_coke: 16/20
+FPS: 22.57
+1_MY, 17_coke: 17/20
+FPS: 22.34
+1_MY, 17_coke: 18/20
+FPS: 22.82
+1_MY, 17_coke: 19/20
+FPS: 22.57
+1_MY, 17_coke: 20/20
+FPS: 22.58
+1_MY, 18_bolt: 1/20
+FPS: 63.90
+1_MY, 18_bolt: 2/20
+FPS: 68.61
+1_MY, 18_bolt: 3/20
+FPS: 64.63
+1_MY, 18_bolt: 4/20
+FPS: 65.05
+1_MY, 18_bolt: 5/20
+FPS: 64.51
+1_MY, 18_bolt: 6/20
+FPS: 64.92
+1_MY, 18_bolt: 7/20
+FPS: 64.70
+1_MY, 18_bolt: 8/20
+FPS: 65.19
+1_MY, 18_bolt: 9/20
+FPS: 65.52
+1_MY, 18_bolt: 10/20
+FPS: 64.87
+1_MY, 18_bolt: 11/20
+FPS: 64.65
+1_MY, 18_bolt: 12/20
+FPS: 64.60
+1_MY, 18_bolt: 13/20
+FPS: 62.43
+1_MY, 18_bolt: 14/20
+FPS: 64.29
+1_MY, 18_bolt: 15/20
+FPS: 65.03
+1_MY, 18_bolt: 16/20
+FPS: 64.89
+1_MY, 18_bolt: 17/20
+FPS: 63.81
+1_MY, 18_bolt: 18/20
+FPS: 63.86
+1_MY, 18_bolt: 19/20
+FPS: 62.15
+1_MY, 18_bolt: 20/20
+FPS: 60.37
+1_MY, 19_boy: 1/20
+FPS: 51.79
+1_MY, 19_boy: 2/20
+FPS: 52.95
+1_MY, 19_boy: 3/20
+FPS: 54.16
+1_MY, 19_boy: 4/20
+FPS: 50.79
+1_MY, 19_boy: 5/20
+FPS: 45.80
+1_MY, 19_boy: 6/20
+FPS: 48.84
+1_MY, 19_boy: 7/20
+FPS: 45.46
+1_MY, 19_boy: 8/20
+FPS: 44.49
+1_MY, 19_boy: 9/20
+FPS: 60.69
+1_MY, 19_boy: 10/20
+FPS: 55.74
+1_MY, 19_boy: 11/20
+FPS: 52.71
+1_MY, 19_boy: 12/20
+FPS: 65.91
+1_MY, 19_boy: 13/20
+FPS: 55.22
+1_MY, 19_boy: 14/20
+FPS: 72.07
+1_MY, 19_boy: 15/20
+FPS: 47.14
+1_MY, 19_boy: 16/20
+FPS: 34.21
+1_MY, 19_boy: 17/20
+FPS: 48.45
+1_MY, 19_boy: 18/20
+FPS: 49.95
+1_MY, 19_boy: 19/20
+FPS: 57.37
+1_MY, 19_boy: 20/20
+FPS: 49.68
+1_MY, 20_dudek: 1/20
+FPS: 14.53
+1_MY, 20_dudek: 2/20
+FPS: 13.83
+1_MY, 20_dudek: 3/20
+FPS: 12.58
+1_MY, 20_dudek: 4/20
+FPS: 14.08
+1_MY, 20_dudek: 5/20
+FPS: 14.08
+1_MY, 20_dudek: 6/20
+FPS: 11.45
+1_MY, 20_dudek: 7/20
+FPS: 12.36
+1_MY, 20_dudek: 8/20
+FPS: 13.14
+1_MY, 20_dudek: 9/20
+FPS: 14.13
+1_MY, 20_dudek: 10/20
+FPS: 13.63
+1_MY, 20_dudek: 11/20
+FPS: 11.80
+1_MY, 20_dudek: 12/20
+FPS: 13.75
+1_MY, 20_dudek: 13/20
+FPS: 10.10
+1_MY, 20_dudek: 14/20
+FPS: 11.93
+1_MY, 20_dudek: 15/20
+FPS: 19.09
+1_MY, 20_dudek: 16/20
+FPS: 18.12
+1_MY, 20_dudek: 17/20
+FPS: 9.70
+1_MY, 20_dudek: 18/20
+FPS: 16.90
+1_MY, 20_dudek: 19/20
+FPS: 30.57
+1_MY, 20_dudek: 20/20
+FPS: 23.67
+1_MY, 21_crossing: 1/20
+FPS: 82.26
+1_MY, 21_crossing: 2/20
+FPS: 88.62
+1_MY, 21_crossing: 3/20
+FPS: 82.08
+1_MY, 21_crossing: 4/20
+FPS: 83.07
+1_MY, 21_crossing: 5/20
+FPS: 88.04
+1_MY, 21_crossing: 6/20
+FPS: 83.75
+1_MY, 21_crossing: 7/20
+FPS: 82.15
+1_MY, 21_crossing: 8/20
+FPS: 78.19
+1_MY, 21_crossing: 9/20
+FPS: 84.00
+1_MY, 21_crossing: 10/20
+FPS: 85.94
+1_MY, 21_crossing: 11/20
+FPS: 88.29
+1_MY, 21_crossing: 12/20
+FPS: 89.36
+1_MY, 21_crossing: 13/20
+FPS: 91.90
+1_MY, 21_crossing: 14/20
+FPS: 87.76
+1_MY, 21_crossing: 15/20
+FPS: 85.65
+1_MY, 21_crossing: 16/20
+FPS: 87.27
+1_MY, 21_crossing: 17/20
+FPS: 92.98
+1_MY, 21_crossing: 18/20
+FPS: 88.90
+1_MY, 21_crossing: 19/20
+FPS: 86.01
+1_MY, 21_crossing: 20/20
+FPS: 84.73
+1_MY, 22_couple: 1/20
+FPS: 63.18
+1_MY, 22_couple: 2/20
+FPS: 58.56
+1_MY, 22_couple: 3/20
+FPS: 59.02
+1_MY, 22_couple: 4/20
+FPS: 56.94
+1_MY, 22_couple: 5/20
+FPS: 58.13
+1_MY, 22_couple: 6/20
+FPS: 60.99
+1_MY, 22_couple: 7/20
+FPS: 55.19
+1_MY, 22_couple: 8/20
+FPS: 57.67
+1_MY, 22_couple: 9/20
+FPS: 61.44
+1_MY, 22_couple: 10/20
+FPS: 55.04
+1_MY, 22_couple: 11/20
+FPS: 54.37
+1_MY, 22_couple: 12/20
+FPS: 56.99
+1_MY, 22_couple: 13/20
+FPS: 55.98
+1_MY, 22_couple: 14/20
+FPS: 60.85
+1_MY, 22_couple: 15/20
+FPS: 54.24
+1_MY, 22_couple: 16/20
+FPS: 51.92
+1_MY, 22_couple: 17/20
+FPS: 50.40
+1_MY, 22_couple: 18/20
+FPS: 50.35
+1_MY, 22_couple: 19/20
+FPS: 47.82
+1_MY, 22_couple: 20/20
+FPS: 43.44
+1_MY, 23_football1: 1/20
+FPS: 61.19
+1_MY, 23_football1: 2/20
+FPS: 61.62
+1_MY, 23_football1: 3/20
+FPS: 59.92
+1_MY, 23_football1: 4/20
+FPS: 41.57
+1_MY, 23_football1: 5/20
+FPS: 59.03
+1_MY, 23_football1: 6/20
+FPS: 60.52
+1_MY, 23_football1: 7/20
+FPS: 52.74
+1_MY, 23_football1: 8/20
+FPS: 57.29
+1_MY, 23_football1: 9/20
+FPS: 55.62
+1_MY, 23_football1: 10/20
+FPS: 57.29
+1_MY, 23_football1: 11/20
+FPS: 54.68
+1_MY, 23_football1: 12/20
+FPS: 60.75
+1_MY, 23_football1: 13/20
+FPS: 60.07
+1_MY, 23_football1: 14/20
+FPS: 60.19
+1_MY, 23_football1: 15/20
+FPS: 53.70
+1_MY, 23_football1: 16/20
+FPS: 56.33
+1_MY, 23_football1: 17/20
+FPS: 53.74
+1_MY, 23_football1: 18/20
+FPS: 54.89
+1_MY, 23_football1: 19/20
+FPS: 58.04
+1_MY, 23_football1: 20/20
+FPS: 58.99
+1_MY, 24_jogging-1: 1/20
+FPS: 51.24
+1_MY, 24_jogging-1: 2/20
+FPS: 54.20
+1_MY, 24_jogging-1: 3/20
+FPS: 57.51
+1_MY, 24_jogging-1: 4/20
+FPS: 51.93
+1_MY, 24_jogging-1: 5/20
+FPS: 49.50
+1_MY, 24_jogging-1: 6/20
+FPS: 49.93
+1_MY, 24_jogging-1: 7/20
+FPS: 49.75
+1_MY, 24_jogging-1: 8/20
+FPS: 48.39
+1_MY, 24_jogging-1: 9/20
+FPS: 49.61
+1_MY, 24_jogging-1: 10/20
+FPS: 47.25
+1_MY, 24_jogging-1: 11/20
+FPS: 46.57
+1_MY, 24_jogging-1: 12/20
+FPS: 42.27
+1_MY, 24_jogging-1: 13/20
+FPS: 41.47
+1_MY, 24_jogging-1: 14/20
+FPS: 37.72
+1_MY, 24_jogging-1: 15/20
+FPS: 37.51
+1_MY, 24_jogging-1: 16/20
+FPS: 42.75
+1_MY, 24_jogging-1: 17/20
+FPS: 41.66
+1_MY, 24_jogging-1: 18/20
+FPS: 40.86
+1_MY, 24_jogging-1: 19/20
+FPS: 39.58
+1_MY, 24_jogging-1: 20/20
+FPS: 38.81
+1_MY, 25_jogging-2: 1/20
+FPS: 34.82
+1_MY, 25_jogging-2: 2/20
+FPS: 41.73
+1_MY, 25_jogging-2: 3/20
+FPS: 43.57
+1_MY, 25_jogging-2: 4/20
+FPS: 41.81
+1_MY, 25_jogging-2: 5/20
+FPS: 41.81
+1_MY, 25_jogging-2: 6/20
+FPS: 39.71
+1_MY, 25_jogging-2: 7/20
+FPS: 40.09
+1_MY, 25_jogging-2: 8/20
+FPS: 39.32
+1_MY, 25_jogging-2: 9/20
+FPS: 38.94
+1_MY, 25_jogging-2: 10/20
+FPS: 33.42
+1_MY, 25_jogging-2: 11/20
+FPS: 38.29
+1_MY, 25_jogging-2: 12/20
+FPS: 38.42
+1_MY, 25_jogging-2: 13/20
+FPS: 33.11
+1_MY, 25_jogging-2: 14/20
+FPS: 34.53
+1_MY, 25_jogging-2: 15/20
+FPS: 33.83
+1_MY, 25_jogging-2: 16/20
+FPS: 31.63
+1_MY, 25_jogging-2: 17/20
+FPS: 31.66
+1_MY, 25_jogging-2: 18/20
+FPS: 31.44
+1_MY, 25_jogging-2: 19/20
+FPS: 29.25
+1_MY, 25_jogging-2: 20/20
+FPS: 30.44
+1_MY, 26_doll: 1/20
+FPS: 53.89
+1_MY, 26_doll: 2/20
+FPS: 49.34
+1_MY, 26_doll: 3/20
+FPS: 46.17
+1_MY, 26_doll: 4/20
+FPS: 47.96
+1_MY, 26_doll: 5/20
+FPS: 34.96
+1_MY, 26_doll: 6/20
+FPS: 30.81
+1_MY, 26_doll: 7/20
+FPS: 26.66
+1_MY, 26_doll: 8/20
+FPS: 34.82
+1_MY, 26_doll: 9/20
+FPS: 22.69
+1_MY, 26_doll: 10/20
+FPS: 24.25
+1_MY, 26_doll: 11/20
+FPS: 12.92
+1_MY, 26_doll: 12/20
+FPS: 39.29
+1_MY, 26_doll: 13/20
+FPS: 32.23
+1_MY, 26_doll: 14/20
+FPS: 34.92
+1_MY, 26_doll: 15/20
+FPS: 21.10
+1_MY, 26_doll: 16/20
+FPS: 19.46
+1_MY, 26_doll: 17/20
+FPS: 20.10
+1_MY, 26_doll: 18/20
+FPS: 37.85
+1_MY, 26_doll: 19/20
+FPS: 22.62
+1_MY, 26_doll: 20/20
+FPS: 16.96
+1_MY, 27_girl: 1/20
+FPS: 53.73
+1_MY, 27_girl: 2/20
+FPS: 56.64
+1_MY, 27_girl: 3/20
+FPS: 46.91
+1_MY, 27_girl: 4/20
+FPS: 68.37
+1_MY, 27_girl: 5/20
+FPS: 60.34
+1_MY, 27_girl: 6/20
+FPS: 55.69
+1_MY, 27_girl: 7/20
+FPS: 53.72
+1_MY, 27_girl: 8/20
+FPS: 68.09
+1_MY, 27_girl: 9/20
+FPS: 58.68
+1_MY, 27_girl: 10/20
+FPS: 42.89
+1_MY, 27_girl: 11/20
+FPS: 42.73
+1_MY, 27_girl: 12/20
+FPS: 56.10
+1_MY, 27_girl: 13/20
+FPS: 54.50
+1_MY, 27_girl: 14/20
+FPS: 58.05
+1_MY, 27_girl: 15/20
+FPS: 63.22
+1_MY, 27_girl: 16/20
+FPS: 49.73
+1_MY, 27_girl: 17/20
+FPS: 55.66
+1_MY, 27_girl: 18/20
+FPS: 48.76
+1_MY, 27_girl: 19/20
+FPS: 48.89
+1_MY, 27_girl: 20/20
+FPS: 42.26
+1_MY, 28_walking2: 1/20
+FPS: 43.34
+1_MY, 28_walking2: 2/20
+FPS: 37.46
+1_MY, 28_walking2: 3/20
+FPS: 42.58
+1_MY, 28_walking2: 4/20
+FPS: 46.39
+1_MY, 28_walking2: 5/20
+FPS: 52.15
+1_MY, 28_walking2: 6/20
+FPS: 51.75
+1_MY, 28_walking2: 7/20
+FPS: 54.07
+1_MY, 28_walking2: 8/20
+FPS: 51.09
+1_MY, 28_walking2: 9/20
+FPS: 65.04
+1_MY, 28_walking2: 10/20
+FPS: 73.70
+1_MY, 28_walking2: 11/20
+FPS: 65.42
+1_MY, 28_walking2: 12/20
+FPS: 67.10
+1_MY, 28_walking2: 13/20
+FPS: 68.77
+1_MY, 28_walking2: 14/20
+FPS: 66.52
+1_MY, 28_walking2: 15/20
+FPS: 75.71
+1_MY, 28_walking2: 16/20
+FPS: 68.90
+1_MY, 28_walking2: 17/20
+FPS: 73.10
+1_MY, 28_walking2: 18/20
+FPS: 74.10
+1_MY, 28_walking2: 19/20
+FPS: 73.32
+1_MY, 28_walking2: 20/20
+FPS: 69.03
+1_MY, 29_walking: 1/20
+FPS: 61.16
+1_MY, 29_walking: 2/20
+FPS: 58.10
+1_MY, 29_walking: 3/20
+FPS: 65.11
+1_MY, 29_walking: 4/20
+FPS: 60.64
+1_MY, 29_walking: 5/20
+FPS: 64.80
+1_MY, 29_walking: 6/20
+FPS: 69.75
+1_MY, 29_walking: 7/20
+FPS: 71.48
+1_MY, 29_walking: 8/20
+FPS: 73.55
+1_MY, 29_walking: 9/20
+FPS: 77.26
+1_MY, 29_walking: 10/20
+FPS: 80.30
+1_MY, 29_walking: 11/20
+FPS: 83.79
+1_MY, 29_walking: 12/20
+FPS: 77.67
+1_MY, 29_walking: 13/20
+FPS: 84.56
+1_MY, 29_walking: 14/20
+FPS: 85.92
+1_MY, 29_walking: 15/20
+FPS: 86.97
+1_MY, 29_walking: 16/20
+FPS: 91.18
+1_MY, 29_walking: 17/20
+FPS: 87.29
+1_MY, 29_walking: 18/20
+FPS: 89.13
+1_MY, 29_walking: 19/20
+FPS: 81.48
+1_MY, 29_walking: 20/20
+FPS: 78.88
+1_MY, 30_fleetface: 1/20
+FPS: 19.01
+1_MY, 30_fleetface: 2/20
+FPS: 21.18
+1_MY, 30_fleetface: 3/20
+FPS: 26.71
+1_MY, 30_fleetface: 4/20
+FPS: 23.58
+1_MY, 30_fleetface: 5/20
+FPS: 18.65
+1_MY, 30_fleetface: 6/20
+FPS: 20.40
+1_MY, 30_fleetface: 7/20
+FPS: 9.88
+1_MY, 30_fleetface: 8/20
+FPS: 23.57
+1_MY, 30_fleetface: 9/20
+FPS: 16.04
+1_MY, 30_fleetface: 10/20
+FPS: 9.31
+1_MY, 30_fleetface: 11/20
+FPS: 12.62
+1_MY, 30_fleetface: 12/20
+FPS: 23.06
+1_MY, 30_fleetface: 13/20
+FPS: 24.15
+1_MY, 30_fleetface: 14/20
+FPS: 17.51
+1_MY, 30_fleetface: 15/20
+FPS: 13.96
+1_MY, 30_fleetface: 16/20
+FPS: 14.49
+1_MY, 30_fleetface: 17/20
+FPS: 14.37
+1_MY, 30_fleetface: 18/20
+FPS: 14.50
+1_MY, 30_fleetface: 19/20
+FPS: 11.18
+1_MY, 30_fleetface: 20/20
+FPS: 12.20
+1_MY, 31_freeman1: 1/20
+FPS: 68.34
+1_MY, 31_freeman1: 2/20
+FPS: 68.16
+1_MY, 31_freeman1: 3/20
+FPS: 72.93
+1_MY, 31_freeman1: 4/20
+FPS: 65.32
+1_MY, 31_freeman1: 5/20
+FPS: 62.04
+1_MY, 31_freeman1: 6/20
+FPS: 44.11
+1_MY, 31_freeman1: 7/20
+FPS: 34.62
+1_MY, 31_freeman1: 8/20
+FPS: 34.40
+1_MY, 31_freeman1: 9/20
+FPS: 34.61
+1_MY, 31_freeman1: 10/20
+FPS: 35.19
+1_MY, 31_freeman1: 11/20
+FPS: 43.16
+1_MY, 31_freeman1: 12/20
+FPS: 37.02
+1_MY, 31_freeman1: 13/20
+FPS: 34.89
+1_MY, 31_freeman1: 14/20
+FPS: 33.71
+1_MY, 31_freeman1: 15/20
+FPS: 35.57
+1_MY, 31_freeman1: 16/20
+FPS: 36.19
+1_MY, 31_freeman1: 17/20
+FPS: 41.68
+1_MY, 31_freeman1: 18/20
+FPS: 53.42
+1_MY, 31_freeman1: 19/20
+FPS: 62.04
+1_MY, 31_freeman1: 20/20
+FPS: 41.93
+1_MY, 32_freeman3: 1/20
+FPS: 113.58
+1_MY, 32_freeman3: 2/20
+FPS: 129.38
+1_MY, 32_freeman3: 3/20
+FPS: 116.92
+1_MY, 32_freeman3: 4/20
+FPS: 127.25
+1_MY, 32_freeman3: 5/20
+FPS: 104.65
+1_MY, 32_freeman3: 6/20
+FPS: 104.43
+1_MY, 32_freeman3: 7/20
+FPS: 102.19
+1_MY, 32_freeman3: 8/20
+FPS: 106.29
+1_MY, 32_freeman3: 9/20
+FPS: 93.89
+1_MY, 32_freeman3: 10/20
+FPS: 80.66
+1_MY, 32_freeman3: 11/20
+FPS: 75.22
+1_MY, 32_freeman3: 12/20
+FPS: 67.22
+1_MY, 32_freeman3: 13/20
+FPS: 64.10
+1_MY, 32_freeman3: 14/20
+FPS: 63.33
+1_MY, 32_freeman3: 15/20
+FPS: 64.61
+1_MY, 32_freeman3: 16/20
+FPS: 55.90
+1_MY, 32_freeman3: 17/20
+FPS: 43.55
+1_MY, 32_freeman3: 18/20
+FPS: 31.91
+1_MY, 32_freeman3: 19/20
+FPS: 31.93
+1_MY, 32_freeman3: 20/20
+FPS: 32.42
+1_MY, 33_freeman4: 1/20
+FPS: 104.22
+1_MY, 33_freeman4: 2/20
+FPS: 108.23
+1_MY, 33_freeman4: 3/20
+FPS: 113.00
+1_MY, 33_freeman4: 4/20
+FPS: 110.56
+1_MY, 33_freeman4: 5/20
+FPS: 106.90
+1_MY, 33_freeman4: 6/20
+FPS: 99.52
+1_MY, 33_freeman4: 7/20
+FPS: 97.82
+1_MY, 33_freeman4: 8/20
+FPS: 98.91
+1_MY, 33_freeman4: 9/20
+FPS: 99.12
+1_MY, 33_freeman4: 10/20
+FPS: 91.13
+1_MY, 33_freeman4: 11/20
+FPS: 82.70
+1_MY, 33_freeman4: 12/20
+FPS: 84.30
+1_MY, 33_freeman4: 13/20
+FPS: 75.38
+1_MY, 33_freeman4: 14/20
+FPS: 78.50
+1_MY, 33_freeman4: 15/20
+FPS: 71.91
+1_MY, 33_freeman4: 16/20
+FPS: 67.52
+1_MY, 33_freeman4: 17/20
+FPS: 66.10
+1_MY, 33_freeman4: 18/20
+FPS: 69.11
+1_MY, 33_freeman4: 19/20
+FPS: 64.87
+1_MY, 33_freeman4: 20/20
+FPS: 54.70
+1_MY, 34_david3: 1/20
+FPS: 31.05
+1_MY, 34_david3: 2/20
+FPS: 29.09
+1_MY, 34_david3: 3/20
+FPS: 30.04
+1_MY, 34_david3: 4/20
+FPS: 27.12
+1_MY, 34_david3: 5/20
+FPS: 29.15
+1_MY, 34_david3: 6/20
+FPS: 29.12
+1_MY, 34_david3: 7/20
+FPS: 29.45
+1_MY, 34_david3: 8/20
+FPS: 24.13
+1_MY, 34_david3: 9/20
+FPS: 24.36
+1_MY, 34_david3: 10/20
+FPS: 24.32
+1_MY, 34_david3: 11/20
+FPS: 23.31
+1_MY, 34_david3: 12/20
+FPS: 25.10
+1_MY, 34_david3: 13/20
+FPS: 30.37
+1_MY, 34_david3: 14/20
+FPS: 31.48
+1_MY, 34_david3: 15/20
+FPS: 31.31
+1_MY, 34_david3: 16/20
+FPS: 30.16
+1_MY, 34_david3: 17/20
+FPS: 31.90
+1_MY, 34_david3: 18/20
+FPS: 31.88
+1_MY, 34_david3: 19/20
+FPS: 34.38
+1_MY, 34_david3: 20/20
+FPS: 34.32
+1_MY, 35_jumping: 1/20
+FPS: 58.77
+1_MY, 35_jumping: 2/20
+FPS: 58.51
+1_MY, 35_jumping: 3/20
+FPS: 61.73
+1_MY, 35_jumping: 4/20
+FPS: 62.24
+1_MY, 35_jumping: 5/20
+FPS: 56.94
+1_MY, 35_jumping: 6/20
+FPS: 53.19
+1_MY, 35_jumping: 7/20
+FPS: 53.11
+1_MY, 35_jumping: 8/20
+FPS: 54.29
+1_MY, 35_jumping: 9/20
+FPS: 51.79
+1_MY, 35_jumping: 10/20
+FPS: 51.34
+1_MY, 35_jumping: 11/20
+FPS: 49.14
+1_MY, 35_jumping: 12/20
+FPS: 49.32
+1_MY, 35_jumping: 13/20
+FPS: 51.93
+1_MY, 35_jumping: 14/20
+FPS: 49.86
+1_MY, 35_jumping: 15/20
+FPS: 50.15
+1_MY, 35_jumping: 16/20
+FPS: 53.71
+1_MY, 35_jumping: 17/20
+FPS: 54.81
+1_MY, 35_jumping: 18/20
+FPS: 51.30
+1_MY, 35_jumping: 19/20
+FPS: 51.30
+1_MY, 35_jumping: 20/20
+FPS: 52.44
+1_MY, 36_carScale: 1/20
+FPS: 58.47
+1_MY, 36_carScale: 2/20
+FPS: 58.18
+1_MY, 36_carScale: 3/20
+FPS: 55.00
+1_MY, 36_carScale: 4/20
+FPS: 60.94
+1_MY, 36_carScale: 5/20
+FPS: 56.65
+1_MY, 36_carScale: 6/20
+FPS: 59.55
+1_MY, 36_carScale: 7/20
+FPS: 55.16
+1_MY, 36_carScale: 8/20
+FPS: 47.46
+1_MY, 36_carScale: 9/20
+FPS: 50.18
+1_MY, 36_carScale: 10/20
+FPS: 46.54
+1_MY, 36_carScale: 11/20
+FPS: 42.91
+1_MY, 36_carScale: 12/20
+FPS: 40.73
+1_MY, 36_carScale: 13/20
+FPS: 33.12
+1_MY, 36_carScale: 14/20
+FPS: 31.84
+1_MY, 36_carScale: 15/20
+FPS: 23.01
+1_MY, 36_carScale: 16/20
+FPS: 20.32
+1_MY, 36_carScale: 17/20
+FPS: 9.99
+1_MY, 36_carScale: 18/20
+FPS: 22.60
+1_MY, 36_carScale: 19/20
+FPS: 19.31
+1_MY, 36_carScale: 20/20
+FPS: 11.16
+1_MY, 37_skiing: 1/20
+FPS: 68.99
+1_MY, 37_skiing: 2/20
+FPS: 71.72
+1_MY, 37_skiing: 3/20
+FPS: 73.32
+1_MY, 37_skiing: 4/20
+FPS: 72.57
+1_MY, 37_skiing: 5/20
+FPS: 69.30
+1_MY, 37_skiing: 6/20
+FPS: 58.98
+1_MY, 37_skiing: 7/20
+FPS: 63.22
+1_MY, 37_skiing: 8/20
+FPS: 63.31
+1_MY, 37_skiing: 9/20
+FPS: 48.85
+1_MY, 37_skiing: 10/20
+FPS: 49.90
+1_MY, 37_skiing: 11/20
+FPS: 58.27
+1_MY, 37_skiing: 12/20
+FPS: 55.79
+1_MY, 37_skiing: 13/20
+FPS: 59.77
+1_MY, 37_skiing: 14/20
+FPS: 64.06
+1_MY, 37_skiing: 15/20
+FPS: 61.71
+1_MY, 37_skiing: 16/20
+FPS: 69.87
+1_MY, 37_skiing: 17/20
+FPS: 76.04
+1_MY, 37_skiing: 18/20
+FPS: 76.59
+1_MY, 37_skiing: 19/20
+FPS: 94.26
+1_MY, 37_skiing: 20/20
+FPS: 95.48
+1_MY, 38_dog1: 1/20
+FPS: 45.57
+1_MY, 38_dog1: 2/20
+FPS: 45.85
+1_MY, 38_dog1: 3/20
+FPS: 41.89
+1_MY, 38_dog1: 4/20
+FPS: 33.21
+1_MY, 38_dog1: 5/20
+FPS: 36.89
+1_MY, 38_dog1: 6/20
+FPS: 35.77
+1_MY, 38_dog1: 7/20
+FPS: 33.03
+1_MY, 38_dog1: 8/20
+FPS: 32.09
+1_MY, 38_dog1: 9/20
+FPS: 32.45
+1_MY, 38_dog1: 10/20
+FPS: 25.27
+1_MY, 38_dog1: 11/20
+FPS: 22.65
+1_MY, 38_dog1: 12/20
+FPS: 18.52
+1_MY, 38_dog1: 13/20
+FPS: 16.91
+1_MY, 38_dog1: 14/20
+FPS: 11.44
+1_MY, 38_dog1: 15/20
+FPS: 19.96
+1_MY, 38_dog1: 16/20
+FPS: 15.16
+1_MY, 38_dog1: 17/20
+FPS: 17.04
+1_MY, 38_dog1: 18/20
+FPS: 27.09
+1_MY, 38_dog1: 19/20
+FPS: 53.15
+1_MY, 38_dog1: 20/20
+FPS: 60.13
+1_MY, 39_suv: 1/20
+FPS: 23.21
+1_MY, 39_suv: 2/20
+FPS: 23.20
+1_MY, 39_suv: 3/20
+FPS: 23.31
+1_MY, 39_suv: 4/20
+FPS: 23.13
+1_MY, 39_suv: 5/20
+FPS: 22.36
+1_MY, 39_suv: 6/20
+FPS: 23.00
+1_MY, 39_suv: 7/20
+FPS: 23.63
+1_MY, 39_suv: 8/20
+FPS: 23.62
+1_MY, 39_suv: 9/20
+FPS: 23.63
+1_MY, 39_suv: 10/20
+FPS: 23.62
+1_MY, 39_suv: 11/20
+FPS: 23.71
+1_MY, 39_suv: 12/20
+FPS: 23.53
+1_MY, 39_suv: 13/20
+FPS: 22.34
+1_MY, 39_suv: 14/20
+FPS: 22.40
+1_MY, 39_suv: 15/20
+FPS: 22.77
+1_MY, 39_suv: 16/20
+FPS: 23.17
+1_MY, 39_suv: 17/20
+FPS: 22.52
+1_MY, 39_suv: 18/20
+FPS: 22.83
+1_MY, 39_suv: 19/20
+FPS: 22.97
+1_MY, 39_suv: 20/20
+FPS: 22.43
+1_MY, 40_motorRolling: 1/20
+FPS: 21.99
+1_MY, 40_motorRolling: 2/20
+FPS: 23.13
+1_MY, 40_motorRolling: 3/20
+FPS: 25.72
+1_MY, 40_motorRolling: 4/20
+FPS: 30.59
+1_MY, 40_motorRolling: 5/20
+FPS: 34.65
+1_MY, 40_motorRolling: 6/20
+FPS: 12.89
+1_MY, 40_motorRolling: 7/20
+FPS: 17.69
+1_MY, 40_motorRolling: 8/20
+FPS: 17.68
+1_MY, 40_motorRolling: 9/20
+FPS: 17.33
+1_MY, 40_motorRolling: 10/20
+FPS: 10.84
+1_MY, 40_motorRolling: 11/20
+FPS: 25.84
+1_MY, 40_motorRolling: 12/20
+FPS: 19.84
+1_MY, 40_motorRolling: 13/20
+FPS: 22.16
+1_MY, 40_motorRolling: 14/20
+FPS: 24.43
+1_MY, 40_motorRolling: 15/20
+FPS: 22.71
+1_MY, 40_motorRolling: 16/20
+FPS: 22.94
+1_MY, 40_motorRolling: 17/20
+FPS: 25.83
+1_MY, 40_motorRolling: 18/20
+FPS: 12.69
+1_MY, 40_motorRolling: 19/20
+FPS: 18.28
+1_MY, 40_motorRolling: 20/20
+FPS: 25.60
+1_MY, 41_mountainBike: 1/20
+FPS: 21.83
+1_MY, 41_mountainBike: 2/20
+FPS: 22.20
+1_MY, 41_mountainBike: 3/20
+FPS: 22.00
+1_MY, 41_mountainBike: 4/20
+FPS: 17.89
+1_MY, 41_mountainBike: 5/20
+FPS: 20.81
+1_MY, 41_mountainBike: 6/20
+FPS: 19.45
+1_MY, 41_mountainBike: 7/20
+FPS: 21.63
+1_MY, 41_mountainBike: 8/20
+FPS: 19.84
+1_MY, 41_mountainBike: 9/20
+FPS: 20.90
+1_MY, 41_mountainBike: 10/20
+FPS: 20.88
+1_MY, 41_mountainBike: 11/20
+FPS: 21.52
+1_MY, 41_mountainBike: 12/20
+FPS: 19.71
+1_MY, 41_mountainBike: 13/20
+FPS: 18.23
+1_MY, 41_mountainBike: 14/20
+FPS: 16.45
+1_MY, 41_mountainBike: 15/20
+FPS: 15.28
+1_MY, 41_mountainBike: 16/20
+FPS: 15.16
+1_MY, 41_mountainBike: 17/20
+FPS: 15.58
+1_MY, 41_mountainBike: 18/20
+FPS: 15.54
+1_MY, 41_mountainBike: 19/20
+FPS: 14.26
+1_MY, 41_mountainBike: 20/20
+FPS: 15.77
+1_MY, 42_lemming: 1/20
+FPS: 14.44
+1_MY, 42_lemming: 2/20
+FPS: 10.87
+1_MY, 42_lemming: 3/20
+FPS: 28.18
+1_MY, 42_lemming: 4/20
+FPS: 13.22
+1_MY, 42_lemming: 5/20
+FPS: 9.79
+1_MY, 42_lemming: 6/20
+FPS: 12.04
+1_MY, 42_lemming: 7/20
+FPS: 28.14
+1_MY, 42_lemming: 8/20
+FPS: 8.90
+1_MY, 42_lemming: 9/20
+FPS: 20.06
+1_MY, 42_lemming: 10/20
+FPS: 8.84
+1_MY, 42_lemming: 11/20
+FPS: 11.31
+1_MY, 42_lemming: 12/20
+FPS: 13.72
+1_MY, 42_lemming: 13/20
+FPS: 8.08
+1_MY, 42_lemming: 14/20
+FPS: 28.14
+1_MY, 42_lemming: 15/20
+FPS: 29.11
+1_MY, 42_lemming: 16/20
+FPS: 17.18
+1_MY, 42_lemming: 17/20
+FPS: 8.33
+1_MY, 42_lemming: 18/20
+FPS: 10.29
+1_MY, 42_lemming: 19/20
+FPS: 13.96
+1_MY, 42_lemming: 20/20
+FPS: 9.39
+1_MY, 43_liquor: 1/20
+FPS: 34.55
+1_MY, 43_liquor: 2/20
+FPS: 34.06
+1_MY, 43_liquor: 3/20
+FPS: 33.97
+1_MY, 43_liquor: 4/20
+FPS: 34.00
+1_MY, 43_liquor: 5/20
+FPS: 41.96
+1_MY, 43_liquor: 6/20
+FPS: 34.39
+1_MY, 43_liquor: 7/20
+FPS: 34.83
+1_MY, 43_liquor: 8/20
+FPS: 34.06
+1_MY, 43_liquor: 9/20
+FPS: 33.93
+1_MY, 43_liquor: 10/20
+FPS: 35.30
+1_MY, 43_liquor: 11/20
+FPS: 34.29
+1_MY, 43_liquor: 12/20
+FPS: 33.23
+1_MY, 43_liquor: 13/20
+FPS: 25.88
+1_MY, 43_liquor: 14/20
+FPS: 39.04
+1_MY, 43_liquor: 15/20
+FPS: 39.19
+1_MY, 43_liquor: 16/20
+FPS: 38.80
+1_MY, 43_liquor: 17/20
+FPS: 34.50
+1_MY, 43_liquor: 18/20
+FPS: 35.59
+1_MY, 43_liquor: 19/20
+FPS: 41.19
+1_MY, 43_liquor: 20/20
+FPS: 40.13
+1_MY, 44_woman: 1/20
+FPS: 50.90
+1_MY, 44_woman: 2/20
+FPS: 52.62
+1_MY, 44_woman: 3/20
+FPS: 52.53
+1_MY, 44_woman: 4/20
+FPS: 53.15
+1_MY, 44_woman: 5/20
+FPS: 50.62
+1_MY, 44_woman: 6/20
+FPS: 50.93
+1_MY, 44_woman: 7/20
+FPS: 52.85
+1_MY, 44_woman: 8/20
+FPS: 49.77
+1_MY, 44_woman: 9/20
+FPS: 50.06
+1_MY, 44_woman: 10/20
+FPS: 51.12
+1_MY, 44_woman: 11/20
+FPS: 51.67
+1_MY, 44_woman: 12/20
+FPS: 52.97
+1_MY, 44_woman: 13/20
+FPS: 51.38
+1_MY, 44_woman: 14/20
+FPS: 46.41
+1_MY, 44_woman: 15/20
+FPS: 44.01
+1_MY, 44_woman: 16/20
+FPS: 43.37
+1_MY, 44_woman: 17/20
+FPS: 60.48
+1_MY, 44_woman: 18/20
+FPS: 57.95
+1_MY, 44_woman: 19/20
+FPS: 60.22
+1_MY, 44_woman: 20/20
+FPS: 65.53
+1_MY, 45_faceocc1: 1/20
+FPS: 19.13
+1_MY, 45_faceocc1: 2/20
+FPS: 17.41
+1_MY, 45_faceocc1: 3/20
+FPS: 17.00
+1_MY, 45_faceocc1: 4/20
+FPS: 19.16
+1_MY, 45_faceocc1: 5/20
+FPS: 19.93
+1_MY, 45_faceocc1: 6/20
+FPS: 20.78
+1_MY, 45_faceocc1: 7/20
+FPS: 19.96
+1_MY, 45_faceocc1: 8/20
+FPS: 19.61
+1_MY, 45_faceocc1: 9/20
+FPS: 19.35
+1_MY, 45_faceocc1: 10/20
+FPS: 20.67
+1_MY, 45_faceocc1: 11/20
+FPS: 19.70
+1_MY, 45_faceocc1: 12/20
+FPS: 20.44
+1_MY, 45_faceocc1: 13/20
+FPS: 20.50
+1_MY, 45_faceocc1: 14/20
+FPS: 20.38
+1_MY, 45_faceocc1: 15/20
+FPS: 21.74
+1_MY, 45_faceocc1: 16/20
+FPS: 21.82
+1_MY, 45_faceocc1: 17/20
+FPS: 19.96
+1_MY, 45_faceocc1: 18/20
+FPS: 20.21
+1_MY, 45_faceocc1: 19/20
+FPS: 20.26
+1_MY, 45_faceocc1: 20/20
+FPS: 20.69
+1_MY, 46_faceocc2: 1/20
+FPS: 18.18
+1_MY, 46_faceocc2: 2/20
+FPS: 13.44
+1_MY, 46_faceocc2: 3/20
+FPS: 12.40
+1_MY, 46_faceocc2: 4/20
+FPS: 13.49
+1_MY, 46_faceocc2: 5/20
+FPS: 14.07
+1_MY, 46_faceocc2: 6/20
+FPS: 13.27
+1_MY, 46_faceocc2: 7/20
+FPS: 12.36
+1_MY, 46_faceocc2: 8/20
+FPS: 17.44
+1_MY, 46_faceocc2: 9/20
+FPS: 13.91
+1_MY, 46_faceocc2: 10/20
+FPS: 13.31
+1_MY, 46_faceocc2: 11/20
+FPS: 14.20
+1_MY, 46_faceocc2: 12/20
+FPS: 12.74
+1_MY, 46_faceocc2: 13/20
+FPS: 12.96
+1_MY, 46_faceocc2: 14/20
+FPS: 16.34
+1_MY, 46_faceocc2: 15/20
+FPS: 20.23
+1_MY, 46_faceocc2: 16/20
+FPS: 14.53
+1_MY, 46_faceocc2: 17/20
+FPS: 16.18
+1_MY, 46_faceocc2: 18/20
+FPS: 13.90
+1_MY, 46_faceocc2: 19/20
+FPS: 12.23
+1_MY, 46_faceocc2: 20/20
+FPS: 13.94
+1_MY, 47_basketball: 1/20
+FPS: 49.43
+1_MY, 47_basketball: 2/20
+FPS: 50.02
+1_MY, 47_basketball: 3/20
+FPS: 50.46
+1_MY, 47_basketball: 4/20
+FPS: 50.17
+1_MY, 47_basketball: 5/20
+FPS: 50.30
+1_MY, 47_basketball: 6/20
+FPS: 48.75
+1_MY, 47_basketball: 7/20
+FPS: 50.46
+1_MY, 47_basketball: 8/20
+FPS: 50.48
+1_MY, 47_basketball: 9/20
+FPS: 50.40
+1_MY, 47_basketball: 10/20
+FPS: 47.03
+1_MY, 47_basketball: 11/20
+FPS: 50.37
+1_MY, 47_basketball: 12/20
+FPS: 49.75
+1_MY, 47_basketball: 13/20
+FPS: 49.23
+1_MY, 47_basketball: 14/20
+FPS: 42.59
+1_MY, 47_basketball: 15/20
+FPS: 49.90
+1_MY, 47_basketball: 16/20
+FPS: 50.74
+1_MY, 47_basketball: 17/20
+FPS: 49.85
+1_MY, 47_basketball: 18/20
+FPS: 50.05
+1_MY, 47_basketball: 19/20
+FPS: 49.53
+1_MY, 47_basketball: 20/20
+FPS: 46.75
+1_MY, 48_football: 1/20
+FPS: 43.65
+1_MY, 48_football: 2/20
+FPS: 47.55
+1_MY, 48_football: 3/20
+FPS: 48.71
+1_MY, 48_football: 4/20
+FPS: 49.10
+1_MY, 48_football: 5/20
+FPS: 51.11
+1_MY, 48_football: 6/20
+FPS: 48.78
+1_MY, 48_football: 7/20
+FPS: 50.83
+1_MY, 48_football: 8/20
+FPS: 49.83
+1_MY, 48_football: 9/20
+FPS: 46.57
+1_MY, 48_football: 10/20
+FPS: 47.51
+1_MY, 48_football: 11/20
+FPS: 48.64
+1_MY, 48_football: 12/20
+FPS: 48.53
+1_MY, 48_football: 13/20
+FPS: 51.61
+1_MY, 48_football: 14/20
+FPS: 47.63
+1_MY, 48_football: 15/20
+FPS: 45.33
+1_MY, 48_football: 16/20
+FPS: 43.99
+1_MY, 48_football: 17/20
+FPS: 40.85
+1_MY, 48_football: 18/20
+FPS: 46.34
+1_MY, 48_football: 19/20
+FPS: 50.97
+1_MY, 48_football: 20/20
+FPS: 45.71
+1_MY, 49_subway: 1/20
+FPS: 79.79
+1_MY, 49_subway: 2/20
+FPS: 81.99
+1_MY, 49_subway: 3/20
+FPS: 81.12
+1_MY, 49_subway: 4/20
+FPS: 81.34
+1_MY, 49_subway: 5/20
+FPS: 84.34
+1_MY, 49_subway: 6/20
+FPS: 87.25
+1_MY, 49_subway: 7/20
+FPS: 80.58
+1_MY, 49_subway: 8/20
+FPS: 79.71
+1_MY, 49_subway: 9/20
+FPS: 84.50
+1_MY, 49_subway: 10/20
+FPS: 81.22
+1_MY, 49_subway: 11/20
+FPS: 77.00
+1_MY, 49_subway: 12/20
+FPS: 83.89
+1_MY, 49_subway: 13/20
+FPS: 78.85
+1_MY, 49_subway: 14/20
+FPS: 69.24
+1_MY, 49_subway: 15/20
+FPS: 79.59
+1_MY, 49_subway: 16/20
+FPS: 75.82
+1_MY, 49_subway: 17/20
+FPS: 73.78
+1_MY, 49_subway: 18/20
+FPS: 78.58
+1_MY, 49_subway: 19/20
+FPS: 77.87
+1_MY, 49_subway: 20/20
+FPS: 78.64
+1_MY, 50_tiger1: 1/20
+FPS: 14.55
+1_MY, 50_tiger1: 2/20
+FPS: 13.35
+1_MY, 50_tiger1: 3/20
+FPS: 13.50
+1_MY, 50_tiger1: 4/20
+FPS: 13.33
+1_MY, 50_tiger1: 5/20
+FPS: 12.69
+1_MY, 50_tiger1: 6/20
+FPS: 10.97
+1_MY, 50_tiger1: 7/20
+FPS: 13.73
+1_MY, 50_tiger1: 8/20
+FPS: 13.69
+1_MY, 50_tiger1: 9/20
+FPS: 13.66
+1_MY, 50_tiger1: 10/20
+FPS: 12.87
+1_MY, 50_tiger1: 11/20
+FPS: 13.69
+1_MY, 50_tiger1: 12/20
+FPS: 15.74
+1_MY, 50_tiger1: 13/20
+FPS: 13.55
+1_MY, 50_tiger1: 14/20
+FPS: 13.49
+1_MY, 50_tiger1: 15/20
+FPS: 13.26
+1_MY, 50_tiger1: 16/20
+FPS: 13.44
+1_MY, 50_tiger1: 17/20
+FPS: 13.51
+1_MY, 50_tiger1: 18/20
+FPS: 12.22
+1_MY, 50_tiger1: 19/20
+FPS: 13.46
+1_MY, 50_tiger1: 20/20
+FPS: 13.60
+1_MY, 51_tiger2: 1/20
+FPS: 15.90
+1_MY, 51_tiger2: 2/20
+FPS: 16.29
+1_MY, 51_tiger2: 3/20
+FPS: 16.25
+1_MY, 51_tiger2: 4/20
+FPS: 16.26
+1_MY, 51_tiger2: 5/20
+FPS: 16.14
+1_MY, 51_tiger2: 6/20
+FPS: 16.13
+1_MY, 51_tiger2: 7/20
+FPS: 16.07
+1_MY, 51_tiger2: 8/20
+FPS: 15.95
+1_MY, 51_tiger2: 9/20
+FPS: 15.99
+1_MY, 51_tiger2: 10/20
+FPS: 16.20
+1_MY, 51_tiger2: 11/20
+FPS: 16.18
+1_MY, 51_tiger2: 12/20
+FPS: 16.22
+1_MY, 51_tiger2: 13/20
+FPS: 16.24
+1_MY, 51_tiger2: 14/20
+FPS: 17.54
+1_MY, 51_tiger2: 15/20
+FPS: 16.09
+1_MY, 51_tiger2: 16/20
+FPS: 16.22
+1_MY, 51_tiger2: 17/20
+FPS: 16.28
+1_MY, 51_tiger2: 18/20
+FPS: 16.25
+1_MY, 51_tiger2: 19/20
+FPS: 16.23
+1_MY, 51_tiger2: 20/20
+FPS: 16.06

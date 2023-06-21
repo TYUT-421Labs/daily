@@ -1,0 +1,78 @@
+class Person:
+    def __init__(self, bg, bbox,delta_time = 0.2 ,acc = 2):
+        self._zs = 0
+        self._bbox = bbox
+        self._tracker = cv.TrackerKCF_create()
+        self._center = (int(bbox[0]+bbox[2]/2), int(bbox[1]+bbox[3]/2))
+        self._mask = np.zeros(bg.shape, dtype = np.uint8)
+        self._shape = bg.shape
+        self._no_time = 0
+        self._tracker.init(bg,bbox)
+        self._frame = bg
+        self._predicted = None
+        self.kalman = cv.KalmanFilter(4,2,0)# 状态空间4D 分别是x y vx vy，测量空间2D 分别是 x y
+        self.kalman.transitionMatrix = np.array([[1,0,delta_time,0],[0,1,0,delta_time],[0,0,1,0],[0,0,0,1]],dtype = np.float32)
+        self.kalman.measurementMatrix = np.array([[1,0,0,0],[0,1,0,0]],dtype = np.float32)
+        self.kalman.statePre = np.array([[self._center[0]],[self._center[1]],[0],[0]],dtype = np.float32)
+        self.kalman.statePost = np.array([[self._center[0]],[self._center[1]],[0],[0]],dtype = np.float32)
+        self.kalman.processNoiseCov = acc * np.array([[0.25*delta_time**4,0,0.5*delta_time**3,0],[0,0.25*delta_time**4,0,0.5*delta_time**3],[0.5*delta_time**3,0,delta_time**2,0],[0,0.5*delta_time**3,0,delta_time**2]],dtype = np.float32)
+    def update(self,new_bbox,center):
+        self._bbox = new_bbox
+        self._center = center
+    def precess(self,src):
+        self._zs = self._zs + 1
+        h,w = self._shape[:2]
+        frame = copy.copy(src)
+        padding = 5 # padding
+        ret, bbox = self._tracker.update(frame) # bbox: x y w h
+        p1,p2 = (int(bbox[0]),int(bbox[1])),(int(bbox[0])+int(bbox[2]),int(bbox[1])+int(bbox[3]))
+        center = (int((p1[0]+p2[0])/2),int((p1[1]+p2[1])/2))
+        global person_count
+        if self._no_time == 20:
+            self._no_time = 0
+            self._mask = np.zeros(self._shape,dtype=np.uint8)
+            self._frame = src
+            return (False,src)
+        if ret and p1[0]>=padding and p1[1]<= (w-padding):#and int(bbox[0])>=padding and int(bbox[0] + bbox[2])<= (w-padding) #and int(bbox[1])>=padding and int(bbox[1] + bbox[3])<=(h-padding)
+            self._no_time = 0
+            s = np.array([[np.float32(center[0])],[np.float32(center[1])]])
+            self.kalman.correct(s)
+            center = self.kalman.predict().astype(np.int)
+            #print(center[0],center[1])
+            center = (center[0,0],center[1,0])
+            cv.line(self._mask,self._center,center,(255,255,0),2)
+            mmask = cv.cvtColor(self._mask.astype(np.uint8),cv.COLOR_BGR2GRAY)
+            mmask = cv.bitwise_not(mmask)
+            self._frame = cv.add(frame, self._mask, mask = mmask)
+            self.update(bbox,center)
+            #self._predicted = [self._bbox[i]+self._speed[i] if i<2 else self._bbox[i] for i in range(4)]
+            #predict_1,predict_2 = (int(self._predicted[0]),int(self._predicted[1])),(int(self._predicted[0])+int(self._predicted[2]),int(self._predicted[1])+int(self._predicted[3]))
+            #cv.rectangle(self._frame,predict_1,predict_2,(0,255,255),2,1) # 画预测框
+            #cv.putText(self._frame,"predicted",predict_1,cv.FONT_HERSHEY_SIMPLEX,0.5,(0,255,255),2)
+            cv.rectangle(self._frame, p1, p2, (255, 0, 0), 2, 1) # 画识别框
+            cv.putText(self._frame,"recognized",p2,cv.FONT_HERSHEY_SIMPLEX,0.5,(255,0,0),2)
+            #cv.waitKey(10)
+            return (True,self._frame)
+        else:
+            ret,bbox = recg_car(frame)
+            if ret:
+                p1,p2 = (int(bbox[0]),int(bbox[1])),(int(bbox[0])+int(bbox[2]),int(bbox[1])+int(bbox[3]))
+                center = (int((p1[0]+p2[0])/2),int((p1[1]+p2[1])/2))
+                s = np.array([[np.float32(center[0])],[np.float32(center[1])]])
+                self.kalman.correct(s)
+                center = self.kalman.predict().astype(np.int)
+                center = (center[0,0],center[1,0])
+                cv.line(self._mask,self._center,center,(255,255,0),2)
+                mmask = cv.cvtColor(self._mask.astype(np.uint8),cv.COLOR_BGR2GRAY)
+                mmask = cv.bitwise_not(mmask)
+                self._frame = cv.add(frame, self._mask, mask = mmask)
+                self.update(bbox,center)
+                cv.rectangle(self._frame, p1, p2, (255, 0, 0), 2, 1) # 画识别框
+                cv.putText(self._frame,"recognized",p2,cv.FONT_HERSHEY_SIMPLEX,0.5,(255,0,0),2)
+                return (True,self._frame)
+            else:
+                self._no_time = self._no_time + 1
+                mmask = cv.cvtColor(self._mask.astype(np.uint8),cv.COLOR_BGR2GRAY)
+                mmask = cv.bitwise_not(mmask)
+                self._frame = cv.add(frame, self._mask, mask = mmask)
+                return (True,self._frame)

@@ -1,0 +1,34 @@
+平移运动用KCF，尺度变化用DSST，穿插置信度评估。结合无人机。
+大致流程：
+窗口尺寸设置--带宽，高斯形状的回归标签，cos窗口--图像大小处理--抓取（根据上一帧跟踪位置和尺度）目标作为测试集-- 用平移过滤器计算平移滤波器响应找到目标位置--用尺度过滤器计算平移滤波器响应找到目标所在的尺度--更新目标位置--更新目标尺度--抓取上一步中找到的目标图块作为训练集--训练平移分类器--训练尺度分类器--保存目标位置尺度以及时间--可视化--循环--结束。 
+
+代码更改是以kcf源代码作为基础的，在run-tracker.m文件中加入了dsst的参数设置部分的代码，在把dasst代码中的dsst.m文件中的尺度部分代码加入了 tracker.m中，并且把kcf中的get-subwindow.m函数文件进行了更改，增加了一个输入量，尺度，即抓取图块时，会根据目标位置与尺度抓取图块，然后再用mexresize函数重新变换为标准尺寸。
+
+融合后的kcf+dsst算法首先在计算量上面会有所损耗，因为用的是完全版的dsst而非后面改进版本的fdsst，所以尺度的加入对于kcf的计算速度
+有所损耗，运行帧数为单纯kcf的1/3。
+但是识别精度提高10%左右（根据数据集的不同），有明显的尺度变化的kcf会容易跟丢，带有尺度的kcf+dsst则能够持续跟踪。
+
+>> run_tracker
+        Dog1 - Precision (20px): 0.970, FPS: 109.36
+>> run_tracker
+      Couple - Precision (20px): 0.814, FPS: 125.40
+>> run_tracker
+      Tiger2 - Precision (20px): 0.822, FPS: 78.07
+>> run_tracker
+    Freeman1 - Precision (20px): 0.991, FPS: 145.76
+>> run_tracker
+    CarScale - Precision (20px): 0.881, FPS: 103.50
+>> run_tracker
+     Singer1 - Precision (20px): 0.809, FPS: 55.09
+
+
+
+struct('name','jogging-1','path','D:\FOX\target_tracking\OTB\OTB100\jogging-1\img\','startFrame',1,'endFrame',307,'nz',4,'ext','jpg','init_rect', [0,0,0,0]),...
+    struct('name','jogging-2','path','D:\FOX\target_tracking\OTB\OTB100\jogging-2\img\','startFrame',1,'endFrame',307,'nz',4,'ext','jpg','init_rect', [0,0,0,0]),...
+    struct('name','freeman1','path','D:\FOX\target_tracking\OTB\OTB100\freeman1\img\','startFrame',1,'endFrame',326,'nz',4,'ext','jpg','init_rect', [0,0,0,0]),...
+    struct('name','carScale','path','D:\FOX\target_tracking\OTB\OTB100\carScale\img\','startFrame',1,'endFrame',252,'nz',4,'ext','jpg','init_rect', [0,0,0,0]),...
+     struct('name','couple','path','D:\FOX\target_tracking\OTB\OTB100\couple\img\','startFrame',1,'endFrame',140,'nz',4,'ext','jpg','init_rect', [0,0,0,0]),...
+    struct('name','singer1','path','D:\FOX\target_tracking\OTB\OTB100\singer1\img\','startFrame',1,'endFrame',351,'nz',4,'ext','jpg','init_rect', [0,0,0,0]),...
+    struct('name','singer2','path','D:\FOX\target_tracking\OTB\OTB100\singer2\img\','startFrame',1,'endFrame',366,'nz',4,'ext','jpg','init_rect', [0,0,0,0]),...
+    struct('name','carScale','path','D:\FOX\target_tracking\OTB\OTB100\carScale\img\','startFrame',1,'endFrame',252,'nz',4,'ext','jpg','init_rect', [0,0,0,0]) 
+    
